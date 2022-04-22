@@ -1,0 +1,26 @@
+body {
+  background-color: #FFCCE5; }
+
+footer {
+  background-color: #E5CCFF; }
+
+h1 {
+  font-weight: bold;
+  font-style: italic; }
+
+h2 {
+  font-weight: bold;
+  font-style: italic; }
+
+h3 {
+  font-style: italic; }
+
+li {
+  font-style: italic; }
+
+a {
+  text-decoration: none;
+  color: gray; }
+  a:hover {
+    color: #B266FF;
+    font-weight: bold; }

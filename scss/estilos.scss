@@ -1,0 +1,13 @@
+@import "colores";
+@import "estructura";
+@import "tipografias";
+
+a{
+    text-decoration: none;
+    color: gray;
+    &:hover {
+        color: #B266FF;
+        font-weight: bold;
+    }
+}
+
